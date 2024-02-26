@@ -1,1 +1,1 @@
-# minithesis
+# Music Player
